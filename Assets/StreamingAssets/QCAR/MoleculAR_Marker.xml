@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PSETracker" size="1.000000 0.757246" />
+    <ImageTarget name="Methylamin" size="1.000000 0.260223" />
+    <ImageTarget name="Methanol" size="1.000000 0.260816" />
+    <ImageTarget name="Ammoniak" size="1.000000 0.257426" />
+    <ImageTarget name="LMCTracker" size="1.000000 0.600000" />
+  </Tracking>
+</QCARConfig>

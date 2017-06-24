@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/UNITY/Scenes/MoleculAR.unity
+  isLoaded: 1
+  isActive: 1
